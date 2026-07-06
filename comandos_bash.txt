@@ -4,3 +4,5 @@ pwd -> mostra diretório de trabalho (caminho)
 mkdir -> criar diretório
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
+rm -rf -> remove de forma recursiva e forçada todos os
+diretórios e subdiretórios
