@@ -1,3 +1,6 @@
 ls -> lista arquivos
 cd -> mover entre diretórios
-pwd -> mostra diretório de trabalho (caminho) 
+pwd -> mostra diretório de trabalho (caminho)
+mkdir -> criar diretório
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
