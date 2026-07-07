@@ -1,1 +1,4 @@
 Esse arquivo contém informações adicionais para git
+
+Comando 1
+Comando 2
