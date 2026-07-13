@@ -11,6 +11,7 @@ Visual Studio Code.
 Pessoas participantes:
 - Téo (Professor)
 - Lucas (Aluno)
+- Lucas Mattos (Aluno)
 
 
 
