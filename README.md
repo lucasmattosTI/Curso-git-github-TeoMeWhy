@@ -24,3 +24,6 @@ Se liga no nosso YouTube, se ligue no nosso site e agenda para ficar por dentro 
 que vai rolar em 2026
 
 [teomewhy.org] (https://teomewhy.org/schedule)
+
+Padrão de início de mensagem do commit e nome de branch: 
+https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
