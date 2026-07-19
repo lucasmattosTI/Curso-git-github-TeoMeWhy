@@ -19,3 +19,8 @@ Pessoas participantes:
 Link para acessar o curso: 
 
 https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL
+
+Se liga no nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo
+que vai rolar em 2026
+
+[teomewhy.org] (https://teomewhy.org/schedule)
