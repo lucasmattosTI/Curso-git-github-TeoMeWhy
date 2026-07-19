@@ -16,5 +16,6 @@ Pessoas participantes:
 
 
 
-Link do curso: 
+Link para acessar o curso: 
+
 https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL
