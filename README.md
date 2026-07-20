@@ -27,3 +27,5 @@ que vai rolar em 2026
 
 Padrão de início de mensagem do commit e nome de branch: 
 https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
+
+Arquivo .pptx removido
